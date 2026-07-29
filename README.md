@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 🎓 **Junior at the University of Maryland, studying Information Science**
+
 🔭 **Aspiring Data Scientist**
 
 ## 🤖 What I'm Doing
@@ -25,7 +26,7 @@ I'm currently an **AI/ML Fellow at Break Through Tech**, where I'm developing sk
 I enjoy tackling real-world problems through technology and building projects that make an impact.
 
 ## 💼 Looking For
-I'm seeking internship opportunities where I can contribute to exciting projects, continue learning from industry professionals, and grow as a software engineer and aspiring data scientist.
+I'm seeking internship opportunities where I can contribute to exciting projects, continue learning from industry professionals, and grow as an aspiring data scientist.
 
 ## 🛠 Tech Stack
 - **Languages:** Python, R, SQL (Intermediate)
@@ -40,4 +41,5 @@ A Python pre-commit hook that scans files for potential malware before they are 
 
 ## 📫 How to Reach Me
 📧 **Email:** tsionkebede05@gmail.com
+
 💼 **LinkedIn:** [linkedin.com/in/yourprofile](www.linkedin.com/in/tsion-k)
