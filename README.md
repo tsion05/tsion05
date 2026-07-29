@@ -19,27 +19,51 @@ Here are some ideas to get you started:
 
 🔭 **Aspiring Data Scientist**
 
+---
+
 ## 🤖 What I'm Doing
+
 I'm currently an **AI/ML Fellow at Break Through Tech**, where I'm developing skills in artificial intelligence and machine learning through hands-on projects.
 
+---
+
 ## 💡 Interests
+
 I enjoy tackling real-world problems through technology and building projects that make an impact.
 
+---
+
 ## 💼 Looking For
+
 I'm seeking internship opportunities where I can contribute to exciting projects, continue learning from industry professionals, and grow as an aspiring data scientist.
 
+---
+
 ## 🛠 Tech Stack
+
 - **Languages:** Python, R, SQL (Intermediate)
 - **Data Science & ML:** Pandas, NumPy, scikit-learn
 - **Web Development:** HTML, CSS, JavaScript
-- **Tools:** Jupyter Notebook, VS code, Git, GitHub
+- **Tools:** Jupyter Notebook, VS Code, Git, GitHub
 
- ## 🚀 Featured Project
-🦠 **Git Hook Virus Scanner**  
-A Python pre-commit hook that scans files for potential malware before they are committed to a Git repository. 
-🔗 **Repository:** [GitHook-VirusScanner](https://github.com/LinaR05/GitHook-VirusScanner.git)
+---
+
+## 🚀 Featured Project
+
+### 🦠 Git Hook Virus Scanner
+
+Collaborated with a team to develop a Python pre-commit hook that scans files for potential malware before they are committed to a Git repository.
+
+🔗 **Repository:** [GitHook-VirusScanner](https://github.com/LinaR05/GitHook-VirusScanner)
+
+---
 
 ## 📫 How to Reach Me
+
 📧 **Email:** tsionkebede05@gmail.com
 
-💼 **LinkedIn:** [linkedin.com/in/yourprofile](www.linkedin.com/in/tsion-k)
+💼 **LinkedIn:** [linkedin.com/in/tsion-k](https://www.linkedin.com/in/tsion-k)
+
+---
+
+⭐ Thanks for stopping by! Feel free to connect with me or check out my projects.
