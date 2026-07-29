@@ -15,6 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🎓 **Junior at the University of Maryland**, studying Information Science
+🎓 **Junior at the University of Maryland, studying Information Science**
 
 🔭 **Aspiring Data Scientist**
+
+## 🤖 What I'm Doing
+
+I'm currently an **AI/ML Fellow at Break Through Tech**, where I'm developing skills in artificial intelligence and machine learning through hands-on projects.
+
+## 💡 Interests
+
+I enjoy tackling real-world problems through technology and building projects that make an impact.
+
+## 💼 Looking For
+
+I'm seeking internship opportunities where I can contribute to exciting projects, continue learning from industry professionals, and grow as a software engineer and aspiring data scientist.
